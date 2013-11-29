@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1EA3DD78-29E7-4184-88B0-FEA242871BCC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>A View Into The World</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF47B5EC-D167-4653-ACA0-9C3A7E603089</key>
+		<string>https://github.com/MStuv/A-View-Into-The-World.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>A View Into The World.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF47B5EC-D167-4653-ACA0-9C3A7E603089</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MStuv/A-View-Into-The-World.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF47B5EC-D167-4653-ACA0-9C3A7E603089</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF47B5EC-D167-4653-ACA0-9C3A7E603089</string>
+			<key>IDESourceControlWCCName</key>
+			<string>A View Into The World</string>
+		</dict>
+	</array>
+</dict>
+</plist>
